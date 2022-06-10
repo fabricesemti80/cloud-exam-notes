@@ -24,22 +24,6 @@ _The way AWS is laid out..._
 
 ## Cloud Concepts
 
-#### 6 Advantages Of Cloud
-
-- Trade capital expense for variable expense
-- Economies of scale
-- Stop guessing about capacity (on demand)
-- Increase speed and agility
-- Stop spending money running data centers
-- Global in minutes
-
-#### 4 Key Values for Building a Migration Business Case
-
-- Cost Saving - free up budget for investment elswhere
-- Staff Productivity - Teams can work on higher value activities
-- Operational Resilience - Increased reliability, availability and security
-- Busine Agility - Increased innovation and reduced time to market
-
 #### 3 Types of Cloud Computing
 
 - IAAS
@@ -51,3 +35,36 @@ _The way AWS is laid out..._
 - Public: AWS, Azure, GCP
 - Hybrid: Mixture of public and private
 - Private Cloud: Your datacenter
+
+## Business case for AWS
+
+#### 6 Advantages Of Cloud
+
+- Trade capital expense for variable expense
+- Economies of scale
+- Stop guessing about capacity (on demand)
+- Increase speed and agility
+- Stop spending money running data centers
+- Global in minutes
+- 
+#### 4 Key Values for Building a Migration Business Case
+
+- Cost Saving - free up budget for investment elswhere
+- Staff Productivity - Teams can work on higher value activities
+- Operational Resilience - Increased reliability, availability and security
+- Busine Agility - Increased innovation and reduced time to market
+
+#### Migration best practices
+
+- Get stakeholders and senior leaders aligned
+- Set top-down quantifiable goals (focused, not organic)
+- Trust the process - Assess -> Mobilize -> migrate & Modernize
+- Chose the right migration pattern (7Rs)
+  - Retire
+  - Retain
+  - Relocate (eg. VMWare, Hyper-V)
+  - Rehost (lift & shift)
+  - Repurchase
+  - Re-platform
+  - Refactor
+(effort increases from top to bottom)
