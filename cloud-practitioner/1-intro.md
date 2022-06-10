@@ -46,7 +46,7 @@ _The way AWS is laid out..._
 - Increase speed and agility
 - Stop spending money running data centers
 - Global in minutes
-- 
+
 #### 4 Key Values for Building a Migration Business Case
 
 - Cost Saving - free up budget for investment elswhere
