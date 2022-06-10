@@ -33,6 +33,13 @@ _The way AWS is laid out..._
 - Stop spending money running data centers
 - Global in minutes
 
+#### 4 Key Values for Building a Migration Business Case
+
+- Cost Saving - free up budget for investment elswhere
+- Staff Productivity - Teams can work on higher value activities
+- Operational Resilience - Increased reliability, availability and security
+- Busine Agility - Increased innovation and reduced time to market
+
 #### 3 Types of Cloud Computing
 
 - IAAS
