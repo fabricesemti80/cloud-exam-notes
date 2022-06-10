@@ -67,4 +67,5 @@ _The way AWS is laid out..._
   - Repurchase
   - Re-platform
   - Refactor
+  
 (effort increases from top to bottom)
