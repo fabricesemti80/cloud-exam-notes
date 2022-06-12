@@ -14,7 +14,7 @@ The well architected framework is based on five pillars:
 - Setting up and testing your response processes
 - Standing up your prod architecture and attacking it for the purposes of breaking it
 
-## Pillar 1: Operational Excellence
+## Pillar 1: Operational Excellence
 
 _Does our application work? Will our application continue to work?_
 
