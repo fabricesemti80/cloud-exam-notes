@@ -59,7 +59,7 @@ _Is what you built going to work consistently?_
 * Reduce latency through regions & AWS edge
 * Serverless > Containers > Instances
 
-## Sustainability
+## Pillar 6: Sustainability
 
 * “development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”  
 * understanding the impacts of the services used
