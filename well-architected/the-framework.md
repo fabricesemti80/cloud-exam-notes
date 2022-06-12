@@ -1,5 +1,5 @@
 
-# The 5 Pillars Overview
+# The ~~5~~ 6 Pillars Overview
 
 The well architected framework is based on five pillars:
 
@@ -58,3 +58,10 @@ _Is what you built going to work consistently?_
 * Let AWS do the work (when possible)
 * Reduce latency through regions & AWS edge
 * Serverless > Containers > Instances
+
+## Sustainability
+
+* “development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”  
+* understanding the impacts of the services used
+* quantifying impacts through the entire workload lifecycle
+* and applying design principles and best practices to reduce these impacts
