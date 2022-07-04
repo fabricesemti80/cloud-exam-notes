@@ -67,5 +67,17 @@ _The way AWS is laid out..._
   - Repurchase
   - Re-platform
   - Refactor
-  
+ 
+ #### Cloud Architecture Design Principles
+ - design for failure (multi-AZ, multi-region)
+ - elasticity (autoscaling)
+ - Loose Coupling (SQS)
+ - AWS well-architected framework design principles
+    - Stop guessing capacity needs
+    - Test systems at production scale
+    - automat to make architectural experimentation easier
+    - allow for evolutionary architectures
+    - drive architectures using data
+    - improva through game days
+ 
 (effort increases from top to bottom)
