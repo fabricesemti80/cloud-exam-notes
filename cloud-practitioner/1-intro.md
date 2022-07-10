@@ -12,7 +12,6 @@ _The way AWS is laid out..._
 * Some regions have ~3 AZ's, some have more
 * Edge locations
 
-// TODO: 👷‍♀ How many AZ's does each region have?
 // TODO: 👷‍♀ Is an edge within an AZ or just a region?
 
 #### 3 Reasons For Choosing a Region
@@ -22,6 +21,7 @@ _The way AWS is laid out..._
 
 // TODO: 👷‍♀ What's the third reason!?
 
+---
 ## Cloud Concepts
 
 ### 3 Types of Cloud Computing
@@ -35,6 +35,8 @@ _The way AWS is laid out..._
 * Public: AWS, Azure, GCP
 * Hybrid: Mixture of public and private
 * Private Cloud: Your datacenter
+
+---
 
 ## Business case for AWS
 
@@ -54,7 +56,9 @@ _The way AWS is laid out..._
 * Operational Resilience - Increased reliability, availability and security
 * Busine Agility - Increased innovation and reduced time to market
 
-#### Migration best practices
+---
+
+## Migration best practices
 
 * Get stakeholders and senior leaders aligned
 * Set top-down quantifiable goals (focused, not organic)
@@ -68,7 +72,9 @@ _The way AWS is laid out..._
   * Re-platform
   * Refactor
 
-#### Cloud Architecture Design Principles
+---
+
+## Cloud Architecture Design Principles
 
 * design for failure (multi-AZ, multi-region)
 * elasticity (autoscaling)
