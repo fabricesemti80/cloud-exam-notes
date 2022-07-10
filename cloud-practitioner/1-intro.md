@@ -31,6 +31,7 @@ _The way AWS is laid out..._
 * IAAS (VPC,EC2,EBS)
 * PAAS (RDS,EMR,ElasticSearch)
 * SAAS (web-based email, Office 354, Salesforce)
+* FAAS (Amazon Simple Storage Service - S3, AWS Lambda, DynamDB, SNS) - build and run applications without thinking about servers
 
 ### 3 Types of Cloud
 
