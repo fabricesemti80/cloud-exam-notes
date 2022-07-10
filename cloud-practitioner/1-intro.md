@@ -15,7 +15,7 @@ _The way AWS is laid out..._
 
 // TODO: 👷‍♀ Is an edge within an AZ or just a region?
 
-#### 3 Reasons For Choosing a Region
+### 3 Reasons For Choosing a Region
 
 1. Latency to the user — You need to be located closer to the user.
 1. Data laws — You have legal requirements that means you need to be in a given region.
@@ -24,7 +24,7 @@ _The way AWS is laid out..._
 
 ---
 
-## Cloud Concepts
+## 2. Cloud Concepts
 
 ### Cloud Computing Models
 
@@ -41,7 +41,7 @@ _The way AWS is laid out..._
 
 ---
 
-## Business case for AWS
+## 3. Business case for AWS
 
 ### 6 Advantages Of Cloud
 
@@ -52,7 +52,7 @@ _The way AWS is laid out..._
 * Stop spending money running data centers
 * Global in minutes
 
-#### 4 Key Values for Building a Migration Business Case
+### 4 Key Values for Building a Migration Business Case
 
 * Cost Saving - free up budget for investment elswhere
 * Staff Productivity - Teams can work on higher value activities
@@ -61,7 +61,9 @@ _The way AWS is laid out..._
 
 ---
 
-## Migration best practices
+## 4. Best practices
+
+### Migration best practices
 
 * Get stakeholders and senior leaders aligned
 * Set top-down quantifiable goals (focused, not organic)
@@ -77,7 +79,7 @@ _The way AWS is laid out..._
 
 ---
 
-## Cloud Architecture Design Principles
+### Cloud Architecture Design Principles
 
 * design for failure (multi-AZ, multi-region)
 * elasticity (autoscaling)
