@@ -5,12 +5,13 @@
 
 _The way AWS is laid out..._
 
-### Availability Zones, Regions, Edge
+### Availability Zones, Regions, Local Zones, Edge
 
 * A region is a collection of AZ's
 * An AZ is within a region
 * Some regions have ~3 AZ's, some have more
-* Edge locations
+* LZ-s - extensions of an AWS Region
+* Edge locations (CloudFront CDN uses these)
 
 // TODO: 👷‍♀ Is an edge within an AZ or just a region?
 
@@ -22,6 +23,7 @@ _The way AWS is laid out..._
 // TODO: 👷‍♀ What's the third reason!?
 
 ---
+
 ## Cloud Concepts
 
 ### 3 Types of Cloud Computing
