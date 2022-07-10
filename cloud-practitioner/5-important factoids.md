@@ -11,6 +11,8 @@
 - *Storage Gateway*
 - *Snowball*
 
+---
+
 ### Database
 
 - Relational Database Service (RDS)
@@ -20,10 +22,38 @@
 - *Database Migration Services (DMS)*
 - Neptune
 
+---
+
 ### Compute and networking
+
+#### Compute
 
 - Elastic Compute Cloud (EC2)
 - EC2 Autoscaling
 - Amazon Lightsail
 - Elastic Container Service (ECS)
 - AWS Lambda
+
+#### Networking
+
+- CloudFront
+- Virtual Private Cloud (VPC)
+- Direct Connect
+- Elastic Load Balancing (ELB)
+- Route53
+- API Gateway
+
+---
+
+### Management services
+
+- CloudFormation
+- AWS Service Catalog
+- CloudWatch
+  - infrastructure monitoring
+- AWS Systems Manager
+- CloudTrail
+  - account audit
+- AWS Config
+- OpsWorks
+- Trusted Advisor
