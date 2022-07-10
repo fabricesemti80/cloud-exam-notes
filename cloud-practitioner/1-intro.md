@@ -26,11 +26,11 @@ _The way AWS is laid out..._
 
 ## Cloud Concepts
 
-### 3 Types of Cloud Computing
+### Cloud Computing Models
 
-* IAAS
-* PAAS
-* SAAS
+* IAAS (VPC,EC2,EBS)
+* PAAS (RDS,EMR,ElasticSearch)
+* SAAS (web-based email, Office 354, Salesforce)
 
 ### 3 Types of Cloud
 
