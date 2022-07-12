@@ -57,3 +57,27 @@
 - AWS Config
 - OpsWorks
 - Trusted Advisor
+
+---
+
+### Application integration
+
+- Step Functions
+- Simple Workflow Service (SWF)
+- Simple Notification Service (SNS)
+- Simple Queue Service (SQS)
+
+---
+
+### Customer Engagement
+
+- Amazon Connect
+- Amazon Pinpoint
+- Simple Email Services (SES)
+
+---
+
+### Analytics and Machine Learning
+
+- Amazon EMR
+-
