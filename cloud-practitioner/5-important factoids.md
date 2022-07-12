@@ -114,3 +114,59 @@
 - Key Management Service (KMS) - _encryption key management_
 - AWS Shield - _DDoS protection_
 - WAF - _web application firewall_
+
+---
+
+### Develper, Media, Mobile, Migration, Business, IoT, Game development
+
+#### Developper tools
+
+- Cloud9 - _IDE_
+- CodeStar - _CI/CD pipeline and project management_
+- X-Ray - _application debugging_
+- CodeCommit - _Git repository_
+- CodePipeline - _CI/CD_
+- CodeBuild - _code testing_
+- CodeDeploy - _automatic deployment_
+
+#### Media services
+
+- Elemental MediaConvert - _video conversion_
+- Elemental MedicaPackage - _media delivery_
+- Elemental MediaTailor - _advertising in videos_
+- Elemental MediaLive - _broadcasting service_
+- Elemental MediaStore - _media storage_
+- Kinesis Video Stream - _streams videos to devices_
+
+#### Mobile services
+
+- AWS Mobile Hub - _AWS service for mobile apps_
+- AWS Device fArm - _app testing services_
+- AWS AppSync - _mobile app backend_
+
+#### Migration sercies
+
+- AWS Application Discovery - _on prem data center discovery_
+- AWS Database Migration service
+- AWS Server Migration Service
+- AWS Snowball
+
+##### Business Productivity
+
+- Amazon WorkDocs - _file collaboration and management_
+- Amazon Workmail  - _"Amazon's outlook"_
+- Amazon Chime - _"Amazon's Zoom"_
+- Amazon WorkSpaces - _desktop-as-a-service_
+- Amazon AppStream - _desktop application streaming in browsers_
+
+##### IOT
+
+- AWS IoT - _managed devices interact with cloud_
+- Amazon FreeRTOS - _operating system for micro controllers_
+- AWS Greengrass - _lambda, etc. on IoT devices_
+
+#### Game development
+
+- Amazon Gamelift - game servers
+- Amazon Lumberyard - game development environment
+
