@@ -97,3 +97,20 @@
 - Comprehend - _ML text analysis_
 - Translate - _translation with ML_
 - Transcribe - _transcription services_
+
+---
+
+#### Security, identity and compliance
+
+- AWS Artifact - _security and compliance documetation_
+- AWS Certificate Management - _https certificates_
+- Amazon Cloud Directory - _cloud based directory_
+- AWS Directory Service - _Active Directory_
+- CloudHSM - _dedicated hardware security module_
+- Cognito - _sign in / sign up integrated with SSO_
+- Identity and Access Management (IAM) - _access management_
+- AWS Organizations - _policy-based management for multiple AWS accounts_
+- Amazon Inspector - _security assesment_
+- Key Management Service (KMS) - _encryption key management_
+- AWS Shield - _DDoS protection_
+- WAF - _web application firewall_
