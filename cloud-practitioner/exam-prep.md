@@ -3,12 +3,11 @@
 
 ## Plan (with Dates)
 
-- 19th - 25% Content
-- 24th - 50% Content
-- 25-26th - 100% Content
-- 26th-1st - Everything Remaining / Exam Tips
+- 30-31th - 40% Content
+- 5-6th - 100% Content
+- 7-12th - Everything Remaining / Exam Tips
 
-## About The Exam
+##  About The Exam
 
 - 90 Minutes
 - 65 Questions
