@@ -83,6 +83,7 @@ _The way AWS is laid out..._
 
 * design for failure (multi-AZ, multi-region)
 * elasticity (autoscaling)
+* elastic load balancer -> enables fault tolerance
 * Loose Coupling (SQS)
 * AWS well-architected framework design principles
   * Stop guessing capacity needs
@@ -90,6 +91,17 @@ _The way AWS is laid out..._
   * automat to make architectural experimentation easier
   * allow for evolutionary architectures
   * drive architectures using data
-  * improva through game days
+  * improve through game days
 
 (effort increases from top to bottom)
+
+> Example of this design:
+ > Elastic Beanstalk
+> automtically handles capacity provisioning, load balancing, scaling and application health monitoring
+
+Deployment options
+
+* All at once
+* Rolling (a batch at a time)
+* Immutable (two environments temporarily)
+* Blue/Green (two environments)
