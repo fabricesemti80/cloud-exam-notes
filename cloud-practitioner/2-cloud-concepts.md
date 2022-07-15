@@ -103,6 +103,7 @@ Configuring an ALB:
 ### Security Groups / Firewalls
 
 - To allow a single IP you need to add `/32` to your IP to restrict just that IP
+- You can attach a maximum of 5 security groups to an EC2 instance
 
 ###  Using EC2 as a Web Server
 
