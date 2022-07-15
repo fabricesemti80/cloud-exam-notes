@@ -149,7 +149,8 @@ _Things that affect operations and monitoring..._
 
 ### CloudTrail
 
-// TODO: 👷‍♀ What is the purpose of a CloudTrail? When would you use it?
+- core checks
+- available for all support plan levels
 
 ### Athena vs Macie
 
