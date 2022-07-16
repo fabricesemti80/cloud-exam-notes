@@ -1,5 +1,5 @@
 
-# The ~~5~~ 6 Pillars Overview
+# The 6 Pillars Overview
 
 The well architected framework is based on five pillars:
 
@@ -8,6 +8,7 @@ The well architected framework is based on five pillars:
 - Cost Optimisation
 - Reliability
 - Performance Efficiency
+- Sustainability
 
 ## Game Days
 
