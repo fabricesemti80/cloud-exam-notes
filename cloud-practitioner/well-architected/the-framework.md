@@ -1,5 +1,5 @@
 
-# The 6 Pillars Overview
+# The  Pillars Overview
 
 The well architected framework is based on five pillars:
 
@@ -8,7 +8,6 @@ The well architected framework is based on five pillars:
 - Cost Optimisation
 - Reliability
 - Performance Efficiency
-- Sustainability
 
 ## Game Days
 
@@ -60,7 +59,7 @@ _Is what you built going to work consistently?_
 - Reduce latency through regions & AWS edge
 - Serverless > Containers > Instances
 
-##  Pillar 6: Sustainability
+## Sustainability
 
 - “development that meets the needs of the present without compromising the ability of future generations to meet their own needs.”
 - understanding the impacts of the services used
